@@ -14,7 +14,7 @@ const icon = `<div class="feature-icon mr-16">
             </div>`;
 
 const agregarinfo = () => {
-    fetch('../info.json')
+    fetch('./info.json')
         .then(response => response.json())
         .then(info => {
             const datos = info.info;
