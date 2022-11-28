@@ -1,0 +1,196 @@
+{
+   "info": [
+    {
+        "idea": 1,
+        "titulo": "El salvador de arboles",
+        "descripcion": "El juego consiste en tener una baraja de cartas, estas cartas son de dos tipos una de árbol y otra de una persona talando. El juego comienza poniendo 3 cartas en la mesa boca abajo y por turno las personas tienen que elegir una carta, si es un árbol puede guardar esa carta y puede elegir otra carta, pero si la carta es la persona talando todas las cartas que están en la mesa son separadas y se vuelven a poner 3 cartas boca abajo. El juego termina cuando no haya cartas y el ganador será el que tenga más cartas de árboles.",
+        "imagen": "idea1.png",
+        "es_idea_seleccionada": true
+    },
+    {
+        "idea": 2,
+        "titulo": "Recolecta residuos",
+        "descripcion": "El juego se basa en un tablero que tiene diferentes casillas, estas casillas puede tener penitencia como recoger botellas plásticas o papel inclusive trampas para poder regresar casillas atrás. Los jugadores se mueven de casilla dependiendo del número que les sale al lanzar un dado. El juego termina cuando uno de los 2 llegué a la meta, el perdedor tendrá que llevarse los residuos de los dos y reciclarlos.",
+        "imagen": "idea2.png"
+    },
+    {
+        "idea": 3,
+        "titulo": "La máquina adivinadora",
+        "descripcion": "El juego se basa en que 2 jugadores toman 5 cartas de una baraja, pero cada uno debe tener una carta que esta una persona guapa. Además, hay una tercera persona que tiene la carta de robot; Él se encargar de elegir una carta de uno de los 2 jugadores y si le sale la carta de la persona guapa se intercambia papeles y cartas. El juego termina cuando no haya más cartas en la baraja y el perdedor es el que tenga la carta de la máquina.",
+        "imagen": "idea3.png"
+    },
+    {
+        "idea": 4,
+        "titulo": "Mímica y fichas",
+        "descripcion": "El juego es por turno se basa en que 2 jugadores, uno es el que tiene las ficha y el otro tiene las cartas; además que ellos pueden elegir si quieren llenar las fichas de forma horizontal o vertical. El jugador 2 tiene que escoger una carta de la baraja no tiene que mostrarla, luego él tiene que decirle el número de la carta y hacer mímicas para que el jugador 1 pueda poner las fichas en el lugar que tiene el número 4 en el tablero y descubrir a lo que se esté refiriendo el jugador 2. El juego tiene un cronometro de 3 minutos si la personas que tiene la ficha no logra poner las fichas en el tablero sobre lo que se está refiriendo el jugador de las cartas pasa el turno del otro jugador y tienen que intercambiar roles, en caso de que si hay acertado con las fichas el jugador puede guardar la carta que tenía el otro jugador. El juego termina cuando uno de los dos haya completado su campo horizontal o vertical antes que el oponente.",
+        "imagen": "idea4.png"
+    },
+    {
+        "idea": 5,
+        "titulo": "Cara, sello y explosión",
+        "descripcion": "El juego consiste en lazar una moneda para decidir el turno de la persona. En la mesa se ponen 3 cartas barajeadas boca abajo, dos de esas cartas son iguales y una es una bomba. La persona ganadora decide si el oponente o él elige una carta. Si la persona elige una carta y resulta ser una bomba esas cartas se separan, pero si logra descubrir las 2 cartas iguales se guarda las cartas y puede tirar otra vez la moneda. El juego termina hasta que termine las cartas y el ganador será el que tenga la mayor cantidad de cartas iguales.",
+        "imagen": "idea5.png"
+    },
+    {
+        "idea": 6,
+        "titulo": "Mira adelante",
+        "descripcion": "Un juego consistente en un tablero con casillas divididos en 3 caminos de diferente longitud. Vas caminando tranquilamente por una calle peligrosa, mientras sostienes tu celular en la mano y revisas tus redes sociales. Estas casillas se recorren con el lanzamiento de un dado. Algunas de estas casillas contienen retos que cumplir, los cuales si no cumples debes volver al punto inicial perdiendo una vida. El camino más corto tendrá retos más difíciles y con una mayor frecuencia, mientras que los más largos contienen menos retos y menos complicados. Si pierdes todas tus 3 vidas vendrá alguien y te robará el celular por no prestar atención a tus alrededores, terminando así también el juego para ti. El ganador es quien llegue a la meta primero o el último en pie tras la eliminación del resto de jugadores. (Puedes iniciar por cualquier camino que desees cuando vuelvas a la casilla principal).",
+        "imagen": "idea6.png",
+        "es_idea_seleccionada": true
+    },
+    {
+        "idea": 7,
+        "titulo": "En busca del perrito perdido",
+        "descripcion": "Un jugador designado como juez tomará 2 cartas al azar, una de ellas será la ubicación del perrito, y la otra será el motivo. El resto de los jugadores deberá intentar adivinar dónde se perdió el perrito y por qué motivo mediante preguntas hacia el juez. El juez debe responder sinceramente, pero sin nombrar directamente el lugar o el motivo. Las ubicaciones representan a lugares dentro de una casa (dormitorio, baño, comedor, sala, etc.). Tanto las ubicaciones como los motivos serán presentados previamente al resto de jugadores.",
+        "imagen": "idea7.png"
+    },
+    {
+        "idea": 8,
+        "titulo": "Un gran peso sobre tus hombros",
+        "descripcion": "Cada jugador tiene un turno para lanzar una moneda al aire y elegir si saldrá cara o sello. En caso de acertar, puede lanzar la moneda una nueva vez. En caso de no acertar, el jugador deberá tomar una carta de la pila de “basura” que servirá para aumentar sus posibilidades de acertar o bloquear las posibilidades de otro jugador. Los jugadores pueden hacer uso de su “basura” cuando deseen, pero entre más “basura” recojan más acciones podrán tomar durante su turno o el de los rivales. El que consiga acertar 3 veces seguidas su elección gana la partida. Como extra, el perdedor (la persona que menos haya acertado sus lanzamientos de moneda) deberá llevarse la basura del ganador y reciclarla.",
+        "imagen": "idea8.png"
+    },
+    {
+        "idea": 9,
+        "titulo": "Anatomía de un cuerpo metálico",
+        "descripcion": "En este juego se coleccionan partes del cuerpo de un robot, que se encuentran representadas en cartas. Las cartas se reparten en el tablero y los jugadores toman turnos para seleccionar una carta, si se trata de una pieza que el jugador ya tiene, debe volver a situarla en el tablero. Gana el primero que complete la construcción de un robot (en otras palabras, consiga las partes de cabeza, torso, brazos, piernas y mochila).",
+        "imagen": "idea9.png"
+    },
+    {
+        "idea": 10,
+        "titulo": "Contra - minas - explosión",
+        "descripcion": "En un tablero de 10x10 (numerados del 1-10 y A-J) hay escondidos 3 coches bomba, estos tienen una superficie de 1, 2 y 3 casillas de largo respectivamente. Para esto existen dos grupos de jugadores, un jugador será el terrorista y los otros serán la fuerza antibombas. El terrorista anotará en un papel las ubicaciones de los 3 coches, buscando que sean lo más difíciles de identificar. El propósito de la fuerza antibombas es identificar en qué casillas están estos coches bomba en menos de 20 turnos (en total), cada jugador de la fuerza antibombas en su turno dirá una casilla y el terrorista deberá responder si hay o no un coche allí. El juego termina cuando pasan los 20 turnos y explota alguno de los coches, o cuando el escuadrón encuentra todas las bombas.",
+        "imagen": "idea10.png"
+    },
+    {
+        "idea": 11,
+        "titulo": "Guardianes de las 7 llaves",
+        "descripcion": "El juego trata de una batalla entre el bien y el mal, que será representado por cada equipo inicia con una llave, el objetivo del juego será obtener los sietes llaves que protegen a la Tierra, las llaves son: odio, miedo, insensatez, codicia, ignorancia, enfermedad, catástrofes, gana el primer equipo que obtenga las 7 llaves, el tablero consiste en un tablero circular de 15 espacios, la salida y de forma intercaladas casillas del bien y el mal, se jugara con un dado de 6 lados. Si cae en una casilla del equipo contrario deberá realizar un reto impuesto por el equipo contrario, si lo logra, obtendrá una llave, en caso de que las 7 llaves estén repartidas el equipo rival pierde una llave que será puesta en disputa otra vez, si cae en casilla de su equipo estará en zona segura y podrá desafiar al equipo rival por una llave, la salida será una zona neutral.",
+        "imagen": "idea11.png",
+        "es_idea_seleccionada": true
+    },
+    {
+        "idea": 12,
+        "titulo": "Escape del panal",
+        "descripcion": "El juego trata de unas abejas que se encuentran en un panal, el cual es rociado por humo para adormecerlas, por lo que deberán escapar del humo, el tablero tendrá forma de tablero de 8x8 de hexágonos, ambos tendrán 8 figuras (abeja y humo), el objetivo de quien dirija las fichas del humo es bloquear a las abejas, y el objetivo de la abeja es llegar al otro lado, los movimientos pueden ser en cualquier dirección, pero la cantidad de movimiento total en el turno se dará por un dado de 6 lados, cada abeja que pase al otro lado del tablero es un punto para las abejas, mientras que las abejas que sean bloqueadas por el humo (engullidas) serán punto para el humano.",
+        "imagen": "idea12.png"
+    },
+    {
+        "idea": 13,
+        "titulo": "Crea carreteras",
+        "descripcion": "El juego será un tablero de 15x15 cuadros, cada jugador comenzara en una esquina, y tendrán 50 fichas cuadradas, el objetivo del juego es colocar la mayor cantidad de baldosas formando una vía, sin que se intercepte con las vías de los enemigos, ganara quien más vadosas haya puesto.",
+        "imagen": "idea13.png"
+    },
+    {
+        "idea": 14,
+        "titulo": "La inquisición",
+        "descripcion": "El juego trata de la época de la Santa Inquisición, donde muchas personas eran acusados injustamente de herejía, el objetivo del juego será crear historias usando un mazo de figuras con objetos y verbos, un jugador será el acusado, otro el fiscal, y el resto el juzgado, los jugadores deberán usar un dado para elegir, si sale impar deben elegir un sustantivo y si sale par, un verbo, el juzgado calificara que jugador creo una mejor historia.",
+        "imagen": "idea14.png"
+    },
+    {
+        "idea": 15,
+        "titulo": "Carrera global",
+        "descripcion": "El juego será en un tablero de 30 casillas unidas donde tendrán casillas normales, así como casillas con eventos aleatorios que le beneficiaran o perjudicara al jugador, el juego se jugara con dos dados de seis lados, si ambos dados muestran el mismo valor el jugador pierde un turno, si el jugados saca dos pares, automáticamente tendrá una tarjeta de evento, gana el jugador que recorra el mapa completo 2 veces.",
+        "imagen": "idea15.png"
+    },
+    {
+        "idea": 16,
+        "titulo": "Nuestra Granja",
+        "descripcion": "Él es en un tablero para 4 personas las cuales deberán completar una vuelta en las casillas por turno cada eso te dará un ingreso, cuando se complete la primera vuelta se lanzará un dado especial el cual te dará un ítem para tu granja, al pasar por las granjas de tus rivales puedes lanzar el dado y si te sale un número menor a 5 no interactuar en nada si es de 6 a 8 puedes cambiar ítems con tu vecino si es 9 puedes comprar ítems. Gana el que logre completar la granja primero con todos los elementos.",
+        "imagen": "idea16.png",
+        "es_idea_seleccionada": true
+    },
+    {
+        "idea": 17,
+        "titulo": "Torre de Babel",
+        "descripcion": "Se juega en una mesa, se trata de tomar un grupo de fichas de color rojo y ponerlas verticalmente de acuerdo con la cantidad que te salga al lanzar un dado el cual se maneja con numero de la serie de Fibonacci el objeto es no dejar que la torre se caiga el dado tiene una cara negra la cual si te sale le pasas tus fichas a tu rival.",
+        "imagen": "idea17.png"
+    },
+    {
+        "idea": 18,
+        "titulo": "Batallar - magia - caótico",
+        "descripcion": "El juego es para 2 jugadores los cuales tendrán un mazo con un máximo de 40 cartas en las cuales tienen cartas de monstruos y cartas de ayuda las de ayuda pueden ser para mejorar ataque, defensa o para realizar algún evento que te permita la carta. El juego es por turnos al inicio cada jugador roba 6 cartas y puede poner un mostro en campo cada vez que le toque a un jugador la lanza el dado y dependiendo de la cantidad que le dé al dado él puede realizar acciones ya sea robar una carta (1 - 2) poner un monstruo en el tablero (3) ponerle una mejora (4) atacar (5 - 6). En batalla el monstruo con mayor ataque gana al menos que este equipado con alguna carta de evento que diga lo contrario. Gana el que no tengas monstruos para atacar.",
+        "imagen": "idea18.png"
+    },
+    {
+        "idea": 19,
+        "titulo": "Mascota - despiadado - abandonar",
+        "descripcion": "El juego empieza repartiendo 6 cartas a cada jugador y se anuncia la frase “Uno de aquí abandonó una mascota” partiendo de ahí cada jugador debe ir defendiéndose e ir culpando a los demás. Cada jugador puede adelantarse y lanzar una nueva acusación (predomina la rapidez, agilidad y memoria). El juego consiste en encontrar a la persona que abandonó a su mascota y ese finalmente deberá realizar alguna penitencias o reto.",
+        "imagen": "idea19.png",
+        "es_idea_seleccionada": true
+    },
+    {
+        "idea": 20,
+        "titulo": "Casa - nuevo - fabricar",
+        "descripcion": "El juego estaría compuesto de piezas y muñecos representando a mascotas. El juego consiste en crear estructuras(establecimientos) sencillos con piezas entregadas al azar por turnos. El jugador más rápido que cree una estructura segura para la mascota gana la ronda. Aquel jugador que tenga mayor cantidad de puntos gana la partida completa.",
+        "imagen": "idea20.png"
+    },
+    {
+        "idea": 21,
+        "titulo": "Encontrar - pequeño - perro",
+        "descripcion": "El juego consiste en encontrar a un perro pequeño que fue abandonado en un laberinto. Los jugadores deben lanzar un dado y avanzar por los posibles caminos. Para el movimiento de las fichas en el tablero se manejará de la siguiente forma. En la parte superior del tablero será llano donde las fichas se moverán con los puntos obtenidos por los datos, en la parte inferior del tablero se encontrará el laberinto por el cual deben avanzar. La ficha estará ligada con un imán en la parte inferior para saber cuándo se choca con un muro. Si el jugador choca con el muro debe volver al inicio, y el jugador que llegue primero será el que rescate al perrito abandonado.",
+        "imagen": "idea21.png"
+    },
+    {
+        "idea": 22,
+        "titulo": "Casa - buscar - largo",
+        "descripcion": "El juego trata sobre mascotas (perros, gatos) que han sido abandonados y se escaparon de las perreras y tienen que buscar el camino a sus hogares. Consta de 2 dados. 1 dado te permite avanzar en las casillas mientras que el otro dado permite posicionar una trampa que te regresa al inicio de la partida. Los jugadores tienen la potestad de elegir si mover la ficha o mover la trampa. Gana aquel jugador que lleve a la mascota a la meta.",
+        "imagen": "idea22.png"
+    },
+    {
+        "idea": 23,
+        "titulo": "Dado - combatir - concentrado",
+        "descripcion": "El juego consiste un tablero donde en las cuatro esquinas se tienen cuatro jugadores, los 2 jugadores del lado izquierdo van a representar el compañerismo mientras que los del lado derecho representarán el Bullying. Este juego se trata de fichas que se irán moviendo acordes al número que salga en el dado en el en el camino se encontrarán casillas en donde hay penitencias ya sean de avanzar, retroceder o bloquear jugadores, el primero en que llegue al centro ya sea los 2 jugadores del compañerismo o los 2 jugadores del Bullying va a ganar el juego en este caso o ganará el compañerismo o ganará el Bullying.",
+        "imagen": "idea23.png"
+    },
+    {
+        "idea": 24,
+        "titulo": "Adivina tu suerte",
+        "descripcion": "El juego consiste en barajar cartas y ponerlas boca abajo de manera en que haya un orden donde primero una persona va a girar una carta y luego va a girar otra, si esta es parecida entonces va a avanzar un cuadro pero si no es parecida deberá girar de nuevo las cartas y continuará el turno el siguiente concursante, de esta manera cada vez que van saliendo las cartas iguales van avanzando según el tablero que se tiene del lado derecho hasta llegar a una meta o en este caso hasta culminar las cartas y ganará la persona que haya avanzado más lejos.",
+        "imagen": "idea24.png"
+    },
+    {
+        "idea": 25,
+        "titulo": "Fabricar - pesado - bosque",
+        "descripcion": "El juego consiste en un tablero donde se muestra 2 caminos, inicialmente se van a tirar los dados y va a avanzar los árboles hasta llegar a la meta, se contabiliza el número de intentos que requirió llegar a la meta para que el jugador del lado de la tala va a tener ese número de intentos y según los árboles que cruza se irán quitando del lugar, al final se van a invertir los papeles es decir el que antes era árbol ahora es la tala en este caso va a ganar el jugador que más árboles ha conseguido talar acordé al número de intentos de la ronda.",
+        "imagen": "idea25.png"
+    },
+    {
+        "idea": 26,
+        "titulo": "Evita el asalto",
+        "descripcion": "El juego consiste en un tablero donde un extremo va a estar el auto y en el otro extremo va a estar el ladrón, inicialmente los 2 van a ir lanzando el dado y van a ir avanzando de manera simultánea las casillas según el dado, cuando se lleguen a topar ambos jugadores van a lanzar el dado y la persona que haya sacado el número mayor vas a seguir avanzando mientras que la otra persona va a ir al comienzo, es decir, a volver a avanzar del camino según los dados hasta que se vuelvan a topar, si una persona logra llegar de un extremo a otro ganará el juego, en este caso avanzará el auto o será asaltado finalmente.",
+        "imagen": "idea26.png"
+    },
+    {
+        "idea": 27,
+        "titulo": "Fabricar - pequeño - reloj",
+        "descripcion": "Este juego consiste en un tablero lleno de puntos donde van a estar 2 jugadores o más, el objetivo es que completen un cuadrado al unir los puntos, pero en cada intento sólo van a poder trazar una línea es decir unir dos puntos, cuando se haya completado un cuadrado se va a poner la inicial de la persona que logró completar el cuadrado, ganará el juego la persona que haya completado más cuadrados en toda la ronda, ya sea el emprendedor o la gran empresa.",
+        "imagen": "idea27.png"
+    },
+    {
+        "idea": 28,
+        "titulo": "Delincuencia - mover - seguro",
+        "descripcion": "Se juega en un tablero para 2 personas una representa al gobierno y el otros los delincuentes. Al inicio del juego cada uno escoge 4 cartas y se muevo por el tablero de formo no lineal. Cada carta tiene una acción especifica de acuerdo con el bando que se escogió gana. El objetivo es de acuerdo con el bando dejar al rival sin acciones posibles ya que cuando se usa una carta esta tendrá un tiempo de inhabilitación de acuerdo con su rango.",
+        "imagen": "idea28.png"
+    },
+    {
+        "idea": 29,
+        "titulo": "Nueva vida",
+        "descripcion": "Debes llegar al punto de meta en el tablero usando los dados para moverse al ir avanzando por las casillas te van a salir retos o ayudas para llegar al punto puedes caer en casillas donde la policía te detiene por indocumentado y pierdes automáticamente.",
+        "imagen": "idea29.png"
+    },
+    {
+        "idea": 30,
+        "titulo": "Mascota - cuidar - limpio",
+        "descripcion": "El juego consiste en escoger una mascota como ficha la cual moverán en un tablero. Las mascotas empiezan en un mal estado y mientras vas avanzando en el tablero vas adquiriendo cartas para mejorar el estado y apariencia de tu mascota. El primer jugador en lograr tener al 100% el estado y salud de su mascota gana.",
+        "imagen": "idea30.png"
+    },
+    {
+        "idea": 31,
+        "titulo": "El salvador de arboles",
+        "descripcion": "El juego consiste en tener una baraja de cartas, estas cartas son de dos tipos una de árbol y otra de una persona talando. El juego comienza poniendo 3 cartas en la mesa boca abajo y por turno las personas tienen que elegir una carta, si es un árbol puede guardar esa carta y puede elegir otra carta, pero si la carta es la persona talando todas las cartas que están en la mesa son separadas y se vuelven a poner 3 cartas boca abajo. El juego termina cuando no haya cartas y el ganador será el que tenga más cartas de árboles.",
+        "imagen": "ideafinal.png",
+        "es_idea_final": true
+    }
+   ]
+}
