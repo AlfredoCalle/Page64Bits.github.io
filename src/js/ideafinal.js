@@ -13,7 +13,7 @@ const icon = `<div class="feature-icon mr-16">
                 </svg>
             </div>`;
 
-const agregarinfo = () => {
+const agregarIdeaFinal = () => {
     fetch('./info.json')
         .then(response => response.json())
         .then(info => {
@@ -36,46 +36,8 @@ const agregarinfo = () => {
                                 </div>`;
                 contenedor_ideas.innerHTML += plantilla;
             }
-            // Mejores ideas
-            let i = 1;
-            for (let dato of datos) {
-                if(!dato.es_idea_seleccionada){
-                    continue
-                }
-                let plantilla = ` <div class="feature" id="mejor-idea${dato.idea}">
-                                    <div class="feature-inner">
-                                    <div class="feature-header mb-16">
-                                    ${icon}
-                                    <h4 class="feature-title m-0">Mejor idea #${i}: ${dato.titulo}</h4>
-                                    </div>
-                                    <p class="text-sm mb-0">${dato.descripcion}</p>
-                                    </div>
-                                    <br>
-                                    <div><img src="./src/images/${dato.imagen}"></div>
-                                </div>`;
-                contenedor_ideas.innerHTML += plantilla;
-                i++;
-            }
-            // Todas las ideas
-            for (let dato of datos) {
-                if(dato.idea === 31){
-                    continue
-                }
-                let plantilla = ` <div class="feature" id="idea${dato.idea}">
-                                    <div class="feature-inner">
-                                    <div class="feature-header mb-16">
-                                    ${icon}
-                                    <h4 class="feature-title m-0">Idea #${dato.idea}: ${dato.titulo}</h4>
-                                    </div>
-                                    <p class="text-sm mb-0">${dato.descripcion}</p>
-                                    </div>
-                                    <br>
-                                    <div><img src="./src/images/${dato.imagen}"></div>
-                                </div>`;
-                contenedor_ideas.innerHTML += plantilla;
-            }
         })
         .catch(error => console.log(error));
 
 };
-agregarinfo();
+agregarIdeaFinal();
