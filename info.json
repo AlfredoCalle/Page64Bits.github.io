@@ -187,8 +187,8 @@
     },
     {
         "idea": 31,
-        "titulo": "El salvador de arboles",
-        "descripcion": "El juego consiste en tener una baraja de cartas, estas cartas son de dos tipos una de árbol y otra de una persona talando. El juego comienza poniendo 3 cartas en la mesa boca abajo y por turno las personas tienen que elegir una carta, si es un árbol puede guardar esa carta y puede elegir otra carta, pero si la carta es la persona talando todas las cartas que están en la mesa son separadas y se vuelven a poner 3 cartas boca abajo. El juego termina cuando no haya cartas y el ganador será el que tenga más cartas de árboles.",
+        "titulo": "Guardianes de las 7 llaves",
+        "descripcion": "El juego trata de una batalla entre el bien y el mal, que será representado por cada equipo inicia con una llave, el objetivo del juego será obtener los sietes llaves que protegen a la Tierra, las llaves son: odio, miedo, insensatez, codicia, ignorancia, enfermedad, catástrofes, gana el primer equipo que obtenga las 7 llaves, el tablero consiste en un tablero circular de 15 espacios, la salida y de forma intercaladas casillas del bien y el mal, se jugara con un dado de 6 lados. Si cae en una casilla del equipo contrario deberá realizar un reto impuesto por el equipo contrario, si lo logra, obtendrá una llave, en caso de que las 7 llaves estén repartidas el equipo rival pierde una llave que será puesta en disputa otra vez, si cae en casilla de su equipo estará en zona segura y podrá desafiar al equipo rival por una llave, la salida será una zona neutral.",
         "imagen": "ideafinal.png",
         "es_idea_final": true
     }

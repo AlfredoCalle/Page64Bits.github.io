@@ -192,5 +192,83 @@
         "imagen": "ideafinal.png",
         "es_idea_final": true
     }
+   ],
+   "evidencias": [
+    {
+        "id": 1,
+        "descripcion": "",
+        "imagen": "test0.jpg"
+    },
+    {
+        "id": 2,
+        "descripcion": "",
+        "imagen": "test1.jpg"
+    },
+    {
+        "id": 3,
+        "descripcion": "",
+        "imagen": "test2.jpg"
+    },
+    {
+        "id": 4,
+        "descripcion": "",
+        "imagen": "test3.jpg"
+    },
+    {
+        "id": 5,
+        "descripcion": "",
+        "imagen": "test4.jpg"
+    },
+    {
+        "id": 6,
+        "descripcion": "",
+        "imagen": "test5.jpg"
+    },
+    {
+        "id": 7,
+        "descripcion": "",
+        "imagen": "test6.jpg"
+    },
+    {
+        "id": 8,
+        "descripcion": "",
+        "imagen": "test7.jpg"
+    },
+    {
+        "id": 9,
+        "descripcion": "",
+        "imagen": "test8.jpg"
+    },
+    {
+        "id": 10,
+        "descripcion": "",
+        "imagen": "test9.jpg"
+    }
+    ],
+   "recomendaciones": [
+    {
+        "recomendacion": 1,
+        "descripcion": "Hacer el tablero más grande."
+    },
+    {
+        "recomendacion": 2,
+        "descripcion": "Hacer que el tablero tenga más casillas."
+    },
+    {
+        "recomendacion": 3,
+        "descripcion": "Agregar en el manual cómo se decide quien comienza."
+    },
+    {
+        "recomendacion": 4,
+        "descripcion": "Definir en que sentido se deben mover las piezas al inicio."
+    },
+    {
+        "recomendacion": 5,
+        "descripcion": "Mejorar el manual del juego, no se entiende y a algunas reglas no están escritas."
+    },
+    {
+        "recomendacion": 6,
+        "descripcion": "El juego necesita condiciones que agilicen la victoria de un jugador para que el juego no dure tanto."
+    }
    ]
 }
