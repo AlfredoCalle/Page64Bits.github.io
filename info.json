@@ -114,7 +114,7 @@
     },
     {
         "idea": 19,
-        "titulo": "Mascota - despiadado - abandonar",
+        "titulo": "Uno de aquí",
         "descripcion": "El juego empieza repartiendo 6 cartas a cada jugador y se anuncia la frase “Uno de aquí abandonó una mascota” partiendo de ahí cada jugador debe ir defendiéndose e ir culpando a los demás. Cada jugador puede adelantarse y lanzar una nueva acusación (predomina la rapidez, agilidad y memoria). El juego consiste en encontrar a la persona que abandonó a su mascota y ese finalmente deberá realizar alguna penitencias o reto.",
         "imagen": "idea19.png",
         "es_idea_seleccionada": true
@@ -189,7 +189,7 @@
         "idea": 31,
         "titulo": "Guardianes de las 7 llaves",
         "descripcion": "El juego trata de una batalla entre el bien y el mal, que será representado por cada equipo inicia con una llave, el objetivo del juego será obtener los sietes llaves que protegen a la Tierra, las llaves son: odio, miedo, insensatez, codicia, ignorancia, enfermedad, catástrofes, gana el primer equipo que obtenga las 7 llaves, el tablero consiste en un tablero circular de 15 espacios, la salida y de forma intercaladas casillas del bien y el mal, se jugara con un dado de 6 lados. Si cae en una casilla del equipo contrario deberá realizar un reto impuesto por el equipo contrario, si lo logra, obtendrá una llave, en caso de que las 7 llaves estén repartidas el equipo rival pierde una llave que será puesta en disputa otra vez, si cae en casilla de su equipo estará en zona segura y podrá desafiar al equipo rival por una llave, la salida será una zona neutral.",
-        "imagen": "ideafinal.png",
+        "imagen": "idea11.png",
         "es_idea_final": true
     }
    ]
