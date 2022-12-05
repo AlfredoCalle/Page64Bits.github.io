@@ -34,6 +34,7 @@
     },
     {
         "idea": 3,
+        "es_idea_final": true,
         "titulo": "Guardianes de las 7 llaves",
         "descripcion": "El juego trata de una batalla entre el bien y el mal, que será representado por cada equipo inicia con una llave, el objetivo del juego será obtener los sietes llaves que protegen a la Tierra, las llaves son: odio, miedo, insensatez, codicia, ignorancia, enfermedad, catástrofes, gana el primer equipo que obtenga las 7 llaves, el tablero consiste en un tablero circular de 15 espacios, la salida y de forma intercaladas casillas del bien y el mal, se jugara con un dado de 6 lados. Si cae en una casilla del equipo contrario deberá realizar un reto impuesto por el equipo contrario, si lo logra, obtendrá una llave, en caso de que las 7 llaves estén repartidas el equipo rival pierde una llave que será puesta en disputa otra vez, si cae en casilla de su equipo estará en zona segura y podrá desafiar al equipo rival por una llave, la salida será una zona neutral.",
         "imagen": "idea11.png",

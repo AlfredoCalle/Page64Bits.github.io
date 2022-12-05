@@ -14,7 +14,7 @@ const icon = `<div class="feature-icon mr-16">
             </div>`;
 
 const agregarIdeaFinal = () => {
-    fetch('./info.json')
+    fetch('./detallesIdeas.json')
         .then(response => response.json())
         .then(info => {
             const datos = info.info;
@@ -33,6 +33,24 @@ const agregarIdeaFinal = () => {
                                     </div>
                                     <br>
                                     <div><img src="./src/images/${dato.imagen}"></div>
+                                    <br>
+                                    <h4>Detalles: </h4>
+                                    <h4>¿Cuál es el conflicto en mi juego?</h4>
+                                    <p>${dato.pregunta1}</p>
+                                    <h4>¿Cuáles son las reglas y procedimientos?</h4>
+                                    <p>${dato.pregunta2}</p>
+                                    <h4>¿Qué acciones pueden tomar los jugadores y cuando las toman?</h4>
+                                    <p>${dato.pregunta3}</p>
+                                    <h4>¿Hay turnos? ¿Cómo funcionan?</h4>
+                                    <p>${dato.pregunta4}</p>
+                                    <h4>¿Cuántos jugadores puede haber?</h4>
+                                    <p>${dato.pregunta5}</p>
+                                    <h4>¿Cuánto se demora en resolver el juego?</h4>
+                                    <p>${dato.pregunta6}</p>
+                                    <h4>¿Cuál es el nombre (título) del proyecto?</h4>
+                                    <p>${dato.pregunta7}</p>
+                                    <h4>¿Cuál es la audiencia del juego?</h4>
+                                    <p>${dato.pregunta8}</p>
                                 </div>`;
                 contenedor_ideas.innerHTML += plantilla;
             }
