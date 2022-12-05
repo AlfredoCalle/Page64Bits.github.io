@@ -1,4 +1,5 @@
 const contenedor_ideas = document.getElementById('contenedor-ideas');
+const contenedor_detalle_ideas = document.getElementById('contenedor-detalle-idea');
 const icon = `<div class="feature-icon mr-16">
                 <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
                     <g fill-rule="nonzero" fill="none">
@@ -40,6 +41,36 @@ const agregarMejoresIdeas = () => {
             }
         })
         .catch(error => console.log(error));
+
+        fetch('./detallesIdeas.json')
+        .then(response => response.json())
+        .then(info => {
+            const datos = info.info;
+            // Detalle Mejores ideas
+            for (let dato of datos) {
+                let plantilla = `
+                <h3>🕹️ Idea #${dato.idea}: ${dato.titulo} <h3>
+                <h4>¿Cuál es el conflicto en mi juego?</h4>
+                <p>${dato.pregunta1}</p>
+                <h4>¿Cuáles son las reglas y procedimientos?</h4>
+                <p>${dato.pregunta2}</p>
+                <h4>¿Qué acciones pueden tomar los jugadores y cuando las toman?</h4>
+                <p>${dato.pregunta3}</p>
+                <h4>¿Hay turnos? ¿Cómo funcionan?</h4>
+                <p>${dato.pregunta4}</p>
+                <h4>¿Cuántos jugadores puede haber?</h4>
+                <p>${dato.pregunta5}</p>
+                <h4>¿Cuánto se demora en resolver el juego?</h4>
+                <p>${dato.pregunta6}</p>
+                <h4>¿Cuál es el nombre (título) del proyecto?</h4>
+                <p>${dato.pregunta7}</p>
+                <h4>¿Cuál es la audiencia del juego?</h4>
+                <p>${dato.pregunta8}</p>
+                `;
+                contenedor_detalle_ideas.innerHTML += plantilla;
+            }
+        })
+        .catch(error => console.log(error));   
 
 };
 agregarMejoresIdeas();

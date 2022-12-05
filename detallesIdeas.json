@@ -1,0 +1,81 @@
+{
+   "info": [
+    {
+        "idea": 1,
+        "titulo": "El salvador de árboles",
+        "descripcion": "El juego consiste en tener una baraja de cartas, estas cartas son de dos tipos una de árbol y otra de una persona talando. El juego comienza poniendo 3 cartas en la mesa boca abajo y por turno las personas tienen que elegir una carta, si es un árbol puede guardar esa carta y puede elegir otra carta, pero si la carta es la persona talando todas las cartas que están en la mesa son separadas y se vuelven a poner 3 cartas boca abajo. El juego termina cuando no haya cartas y el ganador será el que tenga más cartas de árboles.",
+        "imagen": "idea1.png",
+        "es_idea_seleccionada": true,
+        "pregunta1": "Tratar de adivinar cuales son las cartas de árbol par tener más que tu adversario sino perderá por tener menos cartas de árboles.",
+        "pregunta2": "Un jugador debe elegir una carta que se encuentre en la mesa. Si la carta es un árbol debe guardar la carta y puede elegir otra carta. Si la carta es de una persona talando las cartas que están en la mesa son separadas. Si ya se han seleccionado las 2 cartas de árboles se vuelve a poner 3 cartas con 2 árboles y una de persona talando.",
+        "pregunta3": "Seleccionar cartas cuando es su turno o cuando selecciono una carta de árbol. <br>Separar las cartas que están en la mesa si se selecciona una carta de la persona talando. <br> Tomar cartas de la baraja y ponerlas en la mesa para completar las 3 cartas de forma aleatoria.",
+        "pregunta4": "El turno inicial se decide con cualquier sorteo que decidan los participantes. <br>Si un participante saca una carta de árbol, el siguiente turno sigue siendo de él hasta que saque una carta de una persona talando.",
+        "pregunta5": "Hasta 2 participantes.",
+        "pregunta6": "El juego demora hasta que se termine la baraja.",
+        "pregunta7": "El salvador de árboles.",
+        "pregunta8": "La audiencia son niños."
+    },
+
+
+    {
+        "idea": 2,
+        "titulo": "Mira adelante",
+        "descripcion": "Un juego consistente en un tablero con casillas divididos en 3 caminos de diferente longitud. Vas caminando tranquilamente por una calle peligrosa, mientras sostienes tu celular en la mano y revisas tus redes sociales. Estas casillas se recorren con el lanzamiento de un dado. Algunas de estas casillas contienen retos que cumplir, los cuales si no cumples debes volver al punto inicial perdiendo una vida. El camino más corto tendrá retos más difíciles y con una mayor frecuencia, mientras que los más largos contienen menos retos y menos complicados. Si pierdes todas tus 3 vidas vendrá alguien y te robará el celular por no prestar atención a tus alrededores, terminando así también el juego para ti. El ganador es quien llegue a la meta primero o el último en pie tras la eliminación del resto de jugadores. (Puedes iniciar por cualquier camino que desees cuando vuelvas a la casilla principal).",
+        "imagen": "idea6.png",
+        "es_idea_seleccionada": true,
+        "pregunta1": "Los jugadores competirán por ver quien termina todos sus desafíos y llega al meta primero.",
+        "pregunta2": "Cada jugador elige un camino para seguir en su primer turno (corto-con más desafíos, mediano- con una cantidad media de desafíos y largo-con pocos desafíos). <br>Cada jugador tiene un turno para lanzar el dado y mover su ficha en base al número que le salió. <br>Un jugador puede caer en una casilla normal o una casilla de desafío. <br>Al caer en una casilla de desafío, el jugador debe coger una carta de desafío de la pila correspondiente al camino que escogió, estas pilas están clasificadas por dificultad (fácil, medio, difícil). <br>Entre más corto sea el camino, más difícil será el desafío. <br>Si un jugador completa el desafío, se queda en la casilla, si falla en el desafío vuelve al inicio y puede tomar cualquier camino que decida.",
+        "pregunta3": "Lanzar dados, mover su ficha, cumplir un reto, volver al inicio, escoger un nuevo camino.",
+        "pregunta4": "Hay turnos, cada jugador tiene un turno para lanzar dados, mover su ficha y cumplir su reto. Luego el turno pasará al jugador a su derecha.",
+        "pregunta5": "De 2 a 6 jugadores.",
+        "pregunta6": "Aproximadamente 30 minutos.",
+        "pregunta7": "Mira adelante.",
+        "pregunta8": "Niños mayores a 6 años, con énfasis en Jóvenes de 12-24 años que se la pasan viendo redes sociales mientras caminan por la ciudad."
+    },
+    {
+        "idea": 3,
+        "titulo": "Guardianes de las 7 llaves",
+        "descripcion": "El juego trata de una batalla entre el bien y el mal, que será representado por cada equipo inicia con una llave, el objetivo del juego será obtener los sietes llaves que protegen a la Tierra, las llaves son: odio, miedo, insensatez, codicia, ignorancia, enfermedad, catástrofes, gana el primer equipo que obtenga las 7 llaves, el tablero consiste en un tablero circular de 15 espacios, la salida y de forma intercaladas casillas del bien y el mal, se jugara con un dado de 6 lados. Si cae en una casilla del equipo contrario deberá realizar un reto impuesto por el equipo contrario, si lo logra, obtendrá una llave, en caso de que las 7 llaves estén repartidas el equipo rival pierde una llave que será puesta en disputa otra vez, si cae en casilla de su equipo estará en zona segura y podrá desafiar al equipo rival por una llave, la salida será una zona neutral.",
+        "imagen": "idea11.png",
+        "es_idea_seleccionada": true,
+        "pregunta1": "La lucha entre el bien y el mal por tomar el poder de las 7 llaves de la Tierra.",
+        "pregunta2": "Jugadores: 2, 4 o 6 jugadores dividido en dos equipos: el bien y el mal. <br>Tablero: un círculo con 15 casillas, una casilla neutral y 7 casilla de cada equipo alternadas en medio un espacio para las llaves. <br>Dados: un dado de 6 caras. <br> <h5>Procedimiento:</h5> Inicio: cada equipo inicia con una llave, quedando 5 en juego. <br>Lanzamiento de dados: cada jugador lanza el dado y se mueve tantas casillas como el dado indique. <br>Caer en casilla enemiga: deberá cumplir un reto impuesto por el equipo rival con la finalidad de cuidar su llave y ganar una nueva llave, si no logra el reto, pierde una llave. <br>Caer en casilla aliada: podrá saltar su turno o pedir al rival que haga un reto para que pierdan una llave. <br>Caer en casilla cuando las 7 llaves están repartidas: en casilla aliada realizar el reto hará que el rival pierda una llave y regrese a zona neutral, en casilla enemiga protegerá la llave. <br>Gana el equipo que tenga las 7 llaves.",
+        "pregunta3": "Lanzar dados, realizar retos o formular retos cuando ellos o sus rivales realicen su turno.",
+        "pregunta4": "Existen turnos, Se alterna uno de cada equipo y lanzan el dado.",
+        "pregunta5": "Pueden haber 2, 4 o 6 jugadores repartidos de forma equitativa en dos equipos.",
+        "pregunta6": "Entre 30 y 90 minutos.",
+        "pregunta7": "Guardianes de las 7 llaves.",
+        "pregunta8": "Todo Publico."
+    },
+    {
+        "idea": 4,
+        "titulo": "Nuestra Granja",
+        "descripcion": "Él es en un tablero para 4 personas las cuales deberán completar una vuelta en las casillas por turno cada eso te dará un ingreso, cuando se complete la primera vuelta se lanzará un dado especial el cual te dará un ítem para tu granja, al pasar por las granjas de tus rivales puedes lanzar el dado y si te sale un número menor a 5 no interactuar en nada si es de 6 a 8 puedes cambiar ítems con tu vecino si es 9 puedes comprar ítems. Gana el que logre completar la granja primero con todos los elementos.",
+        "imagen": "idea16.png",
+        "es_idea_seleccionada": true,
+        "pregunta1": "Cada jugador quiere completar su granja antes que sus rivales donde estos pueden tener comprar y venta de elementos.",
+        "pregunta2": "Se mueve una vez por turno de acuerdo con la cantidad que salió en el dado. <br>Cuando se llega a la entrada de otra granja se puede comprar si es que acepta el dueño algún ítem. <br>Se gana cuando se completó la granja con todos los ítems requeridos.",
+        "pregunta3": "Se lanza un dado. <br>Se mueve por casillas. <br>Se puede comprar ítems. <br>Se recibe ítems y dinero.",
+        "pregunta4": "Si hay turnos, cada jugador debe lanzar un dado y se desplaza de acuerdo con el número que le salga al llegar al punto de partido este completa una vuelta y obtiene un ingreso económico y después lanza el dado especial para ver que ítems puede llevarse.",
+        "pregunta5": "Pueden ser de 2 a 4 jugadores.",
+        "pregunta6": "El juego puede durar entre 25 minutos y 60 minutos.",
+        "pregunta7": "Nuestra Granja.",
+        "pregunta8": "Para todo público."
+    },
+    {
+        "idea": 5,
+        "titulo": "Uno de aquí",
+        "descripcion": "El juego empieza repartiendo 6 cartas a cada jugador y se anuncia la frase “Uno de aquí abandonó una mascota” partiendo de ahí cada jugador debe ir defendiéndose e ir culpando a los demás. Cada jugador puede adelantarse y lanzar una nueva acusación (predomina la rapidez, agilidad y memoria). El juego consiste en encontrar a la persona que abandonó a su mascota y ese finalmente deberá realizar alguna penitencias o reto.",
+        "imagen": "idea19.png",
+        "es_idea_seleccionada": true,
+        "pregunta1": "El juego se relaciona con la problemática de abandono de mascotas, donde un jugador debe culpar a los demás para descubrir quien realmente abandonó la mascota, ese jugador será el perdedor.",
+        "pregunta2": "El juego empieza repartiendo 6 cartas a cada jugador y se anuncia la frase “Uno de aquí abandonó una mascota” partiendo de ahí cada jugador debe ir defendiéndose e ir culpando a los demás. Cada jugador puede adelantarse y lanzar una nueva acusación. El juego consiste en encontrar a la persona que abandonó a su mascota y ese finalmente deberá realizar alguna penitencias o reto.",
+        "pregunta3": "Tirar cartas, adelantarse al momento de tirar a otro jugador.",
+        "pregunta4": "No hay turnos. Los jugadores pueden adelantarse o tirar una carta para culpar nuevamente a alguien y así sucesivamente hasta que un jugador no tenga a quien culpar o sea el último en quedar con una carta.",
+        "pregunta5": "3 a 5 jugadores.",
+        "pregunta6": "Aproximadamente 25 minutos.",
+        "pregunta7": "Uno de Aquí.",
+        "pregunta8": "Todo Público."
+    }
+   ]
+}
