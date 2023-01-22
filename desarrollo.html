@@ -339,8 +339,8 @@
 				<div class="container">
 					<h2>🧩 Contenido</h2>
 					<h5><a href="#seccion1.1" >6.1 Modelado</a></h5>
-					<h5><a href="#seccion1.2" >6.2 Idea de juego</a></h5>
-					<h5><a href="#seccion1.3" >6.3 Prototipo inicial</a></h5>
+					<h5><a href="#seccion1.2" >6.2 Diseño de Menú y panel lateral</a></h5>
+					<h5><a href="#seccion1.3" >6.3 Desarrollo de juego</a></h5>
 				</div>
             </section>
 
@@ -381,38 +381,124 @@
 						<img src="./src/images/escalera.png">
 						<img src="./src/images/arbol.jpg" width="31%">
 					</div> <br>
+					<div >
+						<img src="./src/images/pollo.jpg" width="40%">
+					</div> <br>
 
+					<p>
+						<b>Modelado de personajes</b>
+					</p>
+					<div >
+						<p>Protagonista:</p>
+						<img src="./src/images/personaje principal.jpg" width="30%">
+					</div>
+					
+					<div >
+						<p>Mujer:</p>
+						<img src="./src/images/mujer.jpg" width="30%">
+					</div>
+					<div >
+						<p>Herrero:</p>
+						<img src="./src/images/herrero.jpg" width="30%">
+					</div>
+					<div >
+						<p>Anciano:</p>
+						<img src="./src/images/anciano.jpg" width="30%">
+					</div>
+					<div >
+						<p>Alquimista:</p>
+						<img src="./src/images/alquimista.jpg" width="30%">
+					</div>
+					<div >
+						<p>Rico:</p>
+						<img src="./src/images/rico.jpg" width="30%">
+					</div>
+
+					<p>
+						<b>Modelado de objetos especiales</b>
+					</p>
+
+					<div style="display: flex;">
+						<img src="./src/images/objetos especiales.jpg" width="40%">
+						<img src="./src/images/objetos especiales 2.jpg">
+						<img src="./src/images/espada.jpg" width="22%">
+					</div>
+
+					<div style="display: flex;">
+						<img src="./src/images/anillo.jpg" width="35%">
+						<img src="./src/images/flor.jpg" width="37%">
+						<img src="./src/images/madera.jpg" width="35%">
+					</div>
+					<div style="display: flex;">
+						<img src="./src/images/metal especial.jpg" width="35%">
+						<img src="./src/images/escudo.jpg" width="37%">
+						<img src="./src/images/pocion.jpg" width="35%">
+					</div> <br>
+
+					<p>
+						<b>Modelado de escenario</b>
+					</p>
+
+					<div style="display: flex;">
+						<img src="./src/images/colocar los objetos.png" width="40%">
+						<img src="./src/images/escenario.jpg" width="37%">
+						<img src="./src/images/colocar casas.jpg" width="30%">
+					</div>
 
 				</div>
 
 				<!-- Selección de palabras -->
 				<div class="container" id="seccion1.2">
-					<h2>🎲 1.2 Idea de juego</h2>
+					<h2>🎲 6.2 Diseño de Menú y panel lateral</h2>
 					<p>
-						La idea de juego nació gracias a la contribución de caracteristcas de las <a href="mejoresideas.html">mejores ideas</a> que cada integrante definió,
-						además de inspiraciones de juegos como zelda, resident evil e historias de juegos RPG. <br>
-						<b>Las caracteristcas que se pueden destacar:</b> <br>  
-						1. Obtención de objetos que fue otorgada por la <a href="ideafinal.html">idea final</a>, Guardianes de las 7 llaves. <br> 
-						2. El tipo de objetos que aparecen en el juego es inspirado de la <a href="mejoresideas.html">mejor idea 4</a>, Nuestra granja del primer parcial. <br>
-						3. Mundo abierto, basado en juegos como zelda y resident evil. <br>
-						4. Mostrar la historia como juegos RPG. <br>
-						5. Basado en la era medieval. <br>
+						<b>Menú</b><br>
+						Para el diseño del menú se usó photoshop para crear el background  
+						una imagen con temática ambiental y una de madera.
+						Posteriormente, se lo importó a Unity para crear el menú del juego.
+						
 					</p>
-					<!-- <div><img src="./src/images/palabras-post-it.png"></div> -->
+					<div>
+						<img src="./src/images/desarrollo menu.png">
+						<img src="./src/images/desarrollo menu2.png"><br>
+					</div>
+
+					<p>
+						<b>Panel Lateral</b><br>
+						Para el diseño del panel lateral se necesito varios iconocos que
+						representen los objetos que tiene que encontrar nuestro protagonista,
+						además de crear el background con una ventana de madera.<br>
+					</p>
+					<div>
+						<img src="./src/images/iconos_objetos.png">
+						<img src="./src/images/panel1.png">
+					</div>
+
+					<p>
+						<br>
+						Se volvio a rediseñar el panel lateal por motivos estéticos y decisión del 
+						Director GUI, además con la funcionalidad del boton con una bolsa para poder abrir 
+						y cerrar el panel. Posteriormente, se permitió
+						que el usuario pueda abrir el panel lateral presionando la letra P.<br>
+					</p>
+					<div>
+						<img src="./src/images/panel2.png">
+						<img src="./src/images/panel3_1.png">
+						<img src="./src/images/panel3.png">
+					</div>
 				</div>
 
 				<!-- Ideas de juegos< -->
 				<div class="container" id="seccion1.3">
-					<h2>🎲 1.3 Prototipo inicial</h2>
+					<h2>🎲 6.3 Desarrollo de juego</h2>
 					<p>
-						A través de una pizarra se pizarra, todos los integrantes, 
-						procedieron a dibujar el primer prototipo del juego basandose
-						en las característcas que se definieron en la idea de juego.
+						Se importó el personaje al juego y con el lenguaje  de programación C# 
+						se creo la lógica del personaje para que pueda caminar y correr. 
 					</p>
 					<!-- <h3>Pototipo inicial 1</h3> -->
-					<div><img src="./src/images/Prototipo inicial.png" width="100%"></div>
+					<div><img src="./src/images/correr code.png"></div>
+					<div><img src="./src/images/correr.png"></div>
 					<!-- <h3>Pototipo inicial 2</h3> -->
-					<div><img src="./src/images/Prototipo inicial 2.png" width="100%"></div>
+					
 
 					<!-- Todas las ideas -->
 					<!-- <div class="features-wrap" id="contenedor-ideas">
